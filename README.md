@@ -1,2 +1,2 @@
-# [https://casiojapi.github.io/matrix](matrix)
+# [matrix](https://casiojapi.github.io/matrix)
 (wip) version of matrix falling chars
